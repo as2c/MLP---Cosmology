@@ -4,7 +4,7 @@ Odoo Development Tutorials
 
 
 Odoo Development Tutorials For The Odoo Beginners and Freshers. Cover All the Basic topics of
-Odoo development.
+Odoo developments.
 
 
 Installation
