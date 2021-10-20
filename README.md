@@ -1,3 +1,3 @@
-# as2c_dev
+# MLP - Cosmology
 Cosmology - ML Project\\
 Ali Saraer, Amirhossein Samandar
